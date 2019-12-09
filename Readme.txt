@@ -1,10 +1,5 @@
-					
-									
+How To run
 
-
-												How To run
-
-->We have created Makefile to run the code.
 Command : make -> To Compile
 		: ./final ->To Run
 
